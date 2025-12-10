@@ -1,6 +1,4 @@
-# 📚 Data Science & Analytics Portfolio
-
-# 📚 Portfólio de Ciência de Dados & Analytics
+## 📚 Data Science & Analytics Portfolio / Portfólio de Ciência de Dados & Analytics
 
 Welcome to my GitHub repository dedicated to my journey as a **Data Scientist / Data Analyst**. Here, I centralize all my learning projects, analytical challenges, and real-world cases developed throughout my training at **EBAC (British School of Art and Technology)** and during selection processes such as **Indicium Lighthouse**.
 
@@ -8,7 +6,7 @@ Bem-vindo ao meu repositório GitHub dedicado à minha jornada como **Cientista 
 
 ---
 
-## 🎯 Purpose / Propósito
+### 🎯 Purpose / Propósito
 
 This repository helps organize and showcase my evolution in data science, making it easier to explore my scripts, notebooks, predictions, dashboards, and analytical thinking.
 
@@ -16,9 +14,10 @@ Este repositório ajuda a organizar e apresentar minha evolução em ciência de
 
 ---
 
-## 📁 Current Projects / Projetos Atuais
+### 📁 Current Projects / Projetos Atuais
 
-### **1. Movies_productions_DataScience – IMDB Rating Prediction**
+#### **1. Movies_productions_DataScience – IMDB Rating Prediction**
+https://github.com/FelipeCasco/Movies_pproductions_DataScience-
 
 **(Indicium Data Science Challenge)**
 A machine learning project focused on predicting IMDB movie ratings based on production, budget, cast, genre, and categorical metadata. Includes EDA, feature engineering, model training, hyperparameter tuning and final performance evaluation.
@@ -27,7 +26,7 @@ Projeto de machine learning focado em prever notas do IMDB com base em informaç
 
 ---
 
-### **2. EBAC – Data Science Learning Projects**
+#### **2. EBAC – Data Science Learning Projects**
 
 Projects developed during the EBAC Data Science course, covering the foundations of the data pipeline:
 
@@ -49,7 +48,7 @@ Projetos desenvolvidos no curso de Ciência de Dados da EBAC, cobrindo os fundam
 
 ---
 
-## 🔍 Future Projects / Projetos Futuros
+### 🔍 Future Projects / Projetos Futuros
 
 * NLP sentiment analysis
 * Recommendation systems
@@ -58,7 +57,7 @@ Projetos desenvolvidos no curso de Ciência de Dados da EBAC, cobrindo os fundam
 
 ---
 
-## 🛠️ Tools & Technologies / Ferramentas & Tecnologias
+### 🛠️ Tools & Technologies / Ferramentas & Tecnologias
 
 * Python, Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
 * Jupyter Notebook & Google Colab
@@ -67,7 +66,7 @@ Projetos desenvolvidos no curso de Ciência de Dados da EBAC, cobrindo os fundam
 
 ---
 
-## 👤 Author / Autor
+### 👤 Author / Autor
 
 **Felipe Rocha Casco**
 📧 Contact: *[feliperochacasco@yahoo.com.br](mailto:feliperochacasco@yahoo.com.br)*
